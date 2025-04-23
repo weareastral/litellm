@@ -1,6 +1,5 @@
 .python-version
 .venv
-.env
 .newenv
 newenv/*
 litellm/proxy/myenv/*
